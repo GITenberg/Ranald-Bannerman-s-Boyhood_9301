@@ -1,0 +1,44 @@
+_repo: Ranald-Bannerman-s-Boyhood_9301
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Wheelhouse, M. V. (Mary V.)
+    alias: Wheelhouse, Mary V.
+    gutenberg_agent_id: '8926'
+    url: http://www.gutenberg.org/2009/agents/8926
+  - agent_name: Hughes, Arthur
+    birthdate: 1832
+    deathdate: 1915
+    gutenberg_agent_id: '39584'
+    url: http://www.gutenberg.org/2009/agents/39584
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: "Ranald Bannerman's Boyhood is a realistic, largely autobiographical,\
+  \ novel by George MacDonald. It was first published in 1871.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '2004-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9301'
+  wikidata: Q7290707
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Scotland -- Juvenile fiction'
+- GITenberg
+title: Ranald Bannerman's Boyhood
+url: http://www.gutenberg.org/ebooks/9301
+wikipedia:
+- https://en.wikipedia.org/wiki/Ranald_Bannerman%27s_Boyhood
