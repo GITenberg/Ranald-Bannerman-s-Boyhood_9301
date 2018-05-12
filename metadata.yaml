@@ -1,5 +1,5 @@
 _repo: Ranald-Bannerman-s-Boyhood_9301
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Wheelhouse, M. V. (Mary V.)
@@ -11,6 +11,9 @@ contributor:
     deathdate: 1915
     gutenberg_agent_id: '39584'
     url: http://www.gutenberg.org/2009/agents/39584
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacDonald, George
@@ -22,6 +25,8 @@ creator:
 description: "Ranald Bannerman's Boyhood is a realistic, largely autobiographical,\
   \ novel by George MacDonald. It was first published in 1871.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9301#Ranald-Bannerman-s-Boyhood
 gutenberg_issued: '2004-08-15'
 gutenberg_type: Text
 identifiers:
